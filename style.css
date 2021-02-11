@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+head,body{
+    width: 100%;
+}
+.spacex{
+    background-color: aqua;
+}
